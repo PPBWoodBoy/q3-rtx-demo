@@ -33,6 +33,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | Gorre  | ✔️ |
 | Slash  | ✔️ |
 | Ranger | ✔️ |
+| Sarge | ✔️ |
 
 ### 🔫 Weapon Textures
 | Weapon          | Status |
@@ -54,7 +55,9 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 ## 📥 Installation (START HERE — IMPORTANT!)
 
 ### 1️⃣ Go to your Quake 3 installation directory (Steam)
+
 `Steam/steamapps/common/Quake 3 Arena/baseq3`
+
 ---
 
 ### 2️⃣ Copy the mod files
