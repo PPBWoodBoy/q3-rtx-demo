@@ -22,8 +22,8 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 ### 🗺️ Maps
 | Map   | Status |
 |-------|--------|
-| Q3DM1 | ✔️ Remastered Textures |
-| Q3DM6 | ✔️ Remastered Textures |
+| Q3DM1 | ✔️ Remastered Textures / Custom Lighting |
+| Q3DM6 | ✔️ Remastered Textures / Custom Lighting |
 
 ### 🧑‍🚀 Player Textures
 | Player | Status |
