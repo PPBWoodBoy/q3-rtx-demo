@@ -194,6 +194,13 @@ Your contributions and feedback made this project possible!
 
 ---
 
+## 🌐 Socials
+
+- **Bluesky:** [yourhandle.bsky.social](https://bsky.app/profile/yourhandle.bsky.social)
+- **Discord:** [yourusername](https://discord.com/users/your_user_id)
+
+---
+
 ## ⭐ Support the Project
 
 If you enjoy this RTX demo, please consider:
