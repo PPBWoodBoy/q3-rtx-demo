@@ -196,8 +196,8 @@ Your contributions and feedback made this project possible!
 
 ## 🌐 Socials
 
-- **Bluesky:** [yourhandle.bsky.social](https://bsky.app/profile/yourhandle.bsky.social)
-- **Discord:** [yourusername](https://discord.com/users/your_user_id)
+- **X (Twitter):** [@WoodBoy2908](https://x.com/WoodBoy2908)
+- **Discord:** [WoodBoy2908](https://discord.com/users/woodboy2908)
 
 ---
 
