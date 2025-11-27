@@ -120,24 +120,27 @@ Just launch and play.
 
 ## 📌 Known Limitations
 
-- All original models are still used (no model remastering yet).  
-- Some texture/material guesswork by Remix may look inconsistent.  
-- Minor lighting artifacts may appear depending on drivers.
+- 3D objects / Models have not been remastered yet
+- Textures dont have animations
+- Some textures might not be remastered or have strange roughness effects
+- RTX might not hook / work if a different, "Quake3e.exe" or "opengl32.dll" is used
+- Playing Q3DM1 or Q3DM6 without "devmap" might have sky issues (playing over normal singleplayer)
+- UI / HUD textures are not remastered yet
 
 ---
 
 ## 🧭 Roadmap
 
-- Remaster all Q3 maps  
+- Remaster all Q3 maps / textures
 - High-poly model replacements  
-- Add HD UI/HUD icons  
+- Remaster UI/HUD textures 
 
 ---
 
 ## 📄 Credits
 
 **Textures & Materials**  
-WoodBoy
+WoodBoy (PolyPlayBox on YouTube)
 
 **Tools**  
 - RTX Remix  
