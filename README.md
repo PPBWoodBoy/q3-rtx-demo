@@ -123,7 +123,7 @@ Just launch and play.
 - 3D objects / Models have not been remastered yet
 - Textures dont have animations
 - Some textures might not be remastered or have strange roughness effects
-- RTX might not hook / work if a different, "Quake3e.exe" or "opengl32.dll" is used
+- RTX might not hook / work if a different: Quake3e.exe, opengl32.dll or RTX Remix version is used
 - Playing Q3DM1 or Q3DM6 without "devmap" might have sky issues (playing over normal singleplayer)
 - UI / HUD textures are not remastered yet
 
@@ -157,13 +157,20 @@ WoodBoy (PolyPlayBox on YouTube)
 
 This mod uses the following tools, which you must download separately:
 
+> [!CAUTION]
+> Using any different version of the following Tools is not supported and might brake the Mod.
+
 ### **RTX Remix (1.2.4)**
 NVIDIA’s official ray-tracing modding toolkit.  
-**Download:** https://github.com/NVIDIA-Omniverse/rtx-remix
+**Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
+
+### **openGL**
+openGL32.exe that "converts" openGL calls to D3D9 (DirectX 9), to get RTX Remix to hook.  
+**Download:** https://github.com/whisperglen/Quake3e](https://github.com/whisperglen/QindieGL/releases/tag/v1.1.7c
 
 ### **Quake3e**
 Enhanced Quake III engine fork with modern improvements.  
-**Download:** https://github.com/ec-/Quake3e
+**Download:** https://github.com/whisperglen/Quake3e/actions/runs/18887629438
 
 ---
 
