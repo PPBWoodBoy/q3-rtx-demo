@@ -110,15 +110,15 @@ Changing graphics or game options can break:
 
 Just launch and play.
 
-If you happen to change a setting and cant get it solved
-here is a list of all ingame settings required to work with RTX:
-
-- Graphics Settings: Lighting: Vertex
-- Graphics Settings: GL extensions: Off
-- Graphics Settings: Texture detail: Highest (100%)
-- Game Options: Dynamic Lights: Off
-- Game Options: High Quality Sky: On
-- Brithness / Contrast: ???
+> [!CAUTION]
+> If you happen to change a setting and cant get it solved
+> here is a list of all ingame settings required to work with RTX:
+> - Graphics Settings: Lighting: Vertex
+> - Graphics Settings: GL extensions: Off
+> - Graphics Settings: Texture detail: Highest (100%)
+> - Game Options: Dynamic Lights: Off
+> - Game Options: High Quality Sky: On
+> - Brithness / Contrast: ???
 
 ---
 
