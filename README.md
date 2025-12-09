@@ -126,6 +126,7 @@ Just launch and play.
 - RTX might not hook / work if a different: Quake3e.exe, opengl32.dll or RTX Remix version is used
 - Playing Q3DM1 or Q3DM6 without "devmap" might have sky issues (playing over normal singleplayer)
 - UI / HUD textures are not remastered yet
+- Texture Quality slider must be maxed (100%) otherwise the enhanced textures wont load!
 
 ---
 
