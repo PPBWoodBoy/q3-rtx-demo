@@ -24,6 +24,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 |-------|--------|
 | Q3DM1 | ✔️ Remastered Textures / Custom Lighting |
 | Q3DM6 | ✔️ Remastered Textures / Custom Lighting |
+| Q3DM10 | ✔️ Remastered Textures / Custom Lighting |
 
 ### 🧑‍🚀 Player Textures
 | Player | Status |
@@ -34,6 +35,10 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | Slash  | ✔️ |
 | Ranger | ✔️ |
 | Sarge | ✔️ |
+| TankJr | ✔️ |
+| Angel | ✔️ |
+| Wrack | ✔️ |
+
 
 ### 🔫 Weapon Textures
 | Weapon          | Status |
@@ -44,6 +49,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | Rocket Launcher | ✔️ |
 | Railgun         | ✔️ |
 | Plasmagun       | ✔️ |
+| Lightninggun       | ✔️ |
 
 ---
 
