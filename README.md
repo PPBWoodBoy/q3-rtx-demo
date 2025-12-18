@@ -90,6 +90,7 @@ Open:
 Look for the following lines:
 
 r_customWidth "xxxx"
+
 r_customHeight "xxxx"
 
 Replace `xxxx` with your resolution.  
