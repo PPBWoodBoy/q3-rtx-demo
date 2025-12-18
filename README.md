@@ -191,11 +191,11 @@ NVIDIA’s official ray-tracing modding toolkit.
 
 ### **openGL**
 openGL32.exe that "converts" openGL calls to D3D9 (DirectX 9), to get RTX Remix to hook.  
-**Download:** https://github.com/whisperglen/Quake3e](https://github.com/whisperglen/QindieGL/releases/tag/v1.1.7c
+**Download:** [https://github.com/whisperglen/Quake3e]([https://github.com/whisperglen/QindieGL/releases/tag/v1.1.7c](https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a)](https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a)
 
 ### **Quake3e**
 Enhanced Quake III engine fork with modern improvements.  
-**Download:** https://github.com/whisperglen/Quake3e/actions/runs/18887629438
+**Download:** [https://github.com/whisperglen/Quake3e/actions/runs/18887629438](https://github.com/whisperglen/Quake3e/releases/tag/v1.1)
 
 ---
 
