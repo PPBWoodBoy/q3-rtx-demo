@@ -1,6 +1,6 @@
 # Quake 3 Arena RTX Mod Demo
 
-![Banner](images/banner.jpg)
+![Mod logo](mod_logo.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Quake3e-blue?style=for-the-badge" />
