@@ -35,6 +35,11 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | Slash  | ✔️ |
 | Ranger | ✔️ |
 | Sarge | ✔️ |
+| Orbb | ✔️ |
+| Hossman | ✔️ |
+| Daemia | ✔️ |
+| Bitterman | ✔️ |
+| Grunt | ✔️ |
 | TankJr | ✔️ |
 | Angel | ✔️ |
 | Wrack | ✔️ |
@@ -118,7 +123,7 @@ Just launch and play.
 > - Graphics Settings: Texture detail: Highest (100%)
 > - Game Options: Dynamic Lights: Off
 > - Game Options: High Quality Sky: On
-> - Brithness / Contrast: ???
+> - Brightness / Contrast: ???
 
 ---
 
