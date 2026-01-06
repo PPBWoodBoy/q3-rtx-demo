@@ -14,7 +14,9 @@
 This project is a visual enhancement mod for **Quake 3 Arena**, created using  
 **RTX Remix 1.2.4**, **Quake3e**, **imgupscaler.ai**, and **Photopea**.  
 It brings modern PBR-style textures and ray-tracing compatible materials to the game while keeping original gameplay completely intact.
+
 **Intended for Singleplayer gameplay!**
+
 **Made by: WoodBoy (aka PolyPlaybox)**
 
 > **Note:** Only textures are remastered — **no models** have been modified yet.
