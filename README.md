@@ -17,7 +17,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 **Intended for Singleplayer gameplay!**
 
-**Made by: WoodBoy (aka PolyPlaybox)**
+**Made by: WoodBoy (aka PolyPlayBox)**
 
 > **Note:** Only textures are remastered — **no models** have been modified yet.
 
