@@ -24,6 +24,9 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 > [!CAUTION]
 > I dont take any responsibility for any hardware damage, VAC bans, any other problems that this mod might cause
 
+> [!CAUTION]
+> Please download the mod files from [[ModDB]([https://x.com/WoodBoy2908](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads))](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads)
+
 ---
 
 ## 🔥 Remastered Content
@@ -71,7 +74,6 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 - **Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
 - **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a
-
 - **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1
 
 - Copy the `quake3e.exe` into your base Quake3 (Q3) folder (example: C:/Program Files/Quake 3 Arena)
