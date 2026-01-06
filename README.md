@@ -25,7 +25,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 > I dont take any responsibility for any hardware damage, VAC bans, any other problems that this mod might cause
 
 > [!CAUTION]
-> Please download the mod files from [[ModDB]([https://x.com/WoodBoy2908](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads))](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads)
+> Please download the mod files from [ModDB](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads)
 
 ---
 
