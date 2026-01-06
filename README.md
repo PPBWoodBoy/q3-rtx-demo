@@ -14,8 +14,13 @@
 This project is a visual enhancement mod for **Quake 3 Arena**, created using  
 **RTX Remix 1.2.4**, **Quake3e**, **imgupscaler.ai**, and **Photopea**.  
 It brings modern PBR-style textures and ray-tracing compatible materials to the game while keeping original gameplay completely intact.
+** Intended for Singleplayer gameplay! **
+** Made by: WoodBoy (aka PolyPlaybox) **
 
 > **Note:** Only textures are remastered — **no models** have been modified yet.
+
+> [!CAUTION]
+> I dont take any responsibility for any hardware damage, VAC bans, any other problems that this mod might cause
 
 ---
 
@@ -60,12 +65,39 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 ---
 
-## 📸 Screenshots (Preview)
+## 📥 Installation TL;DR
 
+- **Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
+- **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a
 
----
+- **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1
 
-## 📥 Installation (START HERE — IMPORTANT!)
+- Copy the `quake3e.exe` into your base Quake3 (Q3) folder (example: C:/Program Files/Quake 3 Arena)
+- Copy the `opengl32.dll` into your base Q3 folder
+- Copy the `QindieGL.ini` into your base Q3 folder
+- Copy the `rtx.conf`into your base Q3 folder
+- Copy the RTX Remix 1.2.4 runtime into your base Q3 folder:
+	- .trex folder
+	- d3d8to9.dll
+	- d3d9.dll
+	- NvRemixLauncher32.exe
+- Copy the `autoexec.cfg` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
+- Copy the `q3rtx.pk3` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
+- Run the `quake3e.exe` once and make sure RTX Remix hooks (Message ingame on the top left corner)
+- Exit the game
+- Copy the whole `Q3RTXDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder
+- Have fun
+
+> [!CAUTION]
+> If you happen to change a setting and cant get it solved
+> here is a list of all ingame settings required to work with RTX:
+> - Graphics Settings: Lighting: Vertex
+> - Graphics Settings: GL extensions: Off
+> - Graphics Settings: Texture detail: Highest (100%)
+> - Game Options: Dynamic Lights: Off
+> - Game Options: High Quality Sky: On
+
+## 📥 Installation (START HERE)
 
 ### 1️⃣ Go to your Quake 3 installation directory (Steam)
 
@@ -134,9 +166,11 @@ Just launch and play.
 ### Engines & Rendering
 - **NVIDIA RTX Remix 1.2.4**
 - **Quake3e (latest build)**
+- **opengl32.dll**
 
 ### Texture Workflow
 - **imgupscaler.ai** — AI enhancement and detail restoration  
+- **Upscayl** — AI enhancement and detail restoration  
 - **Photopea** — manual cleanup, corrections, and texture prep  
 
 ---
@@ -144,10 +178,9 @@ Just launch and play.
 ## 📌 Known Limitations
 
 - 3D objects / Models have not been remastered yet
-- Textures dont have animations
+- Textures dont have animations (mostly)
 - Some textures might not be remastered or have strange roughness effects
 - RTX might not hook / work if a different: Quake3e.exe, opengl32.dll or RTX Remix version is used
-- Playing Q3DM1 or Q3DM6 without "devmap" might have sky issues (playing over normal singleplayer)
 - UI / HUD textures are not remastered yet
 - Texture Quality slider must be maxed (100%) otherwise the enhanced textures wont load!
 
@@ -170,6 +203,7 @@ WoodBoy (PolyPlayBox on YouTube)
 - RTX Remix  
 - Quake3e  
 - imgupscaler.ai  
+- Upscayl
 - Photopea  
 
 **Original Game**  
@@ -213,6 +247,7 @@ A huge thank-you to the following people from the official NVIDIA RTX Remix Disc
 
 - **saintMath**  
 - **Ferdam**
+- **Jon**
 
 Your contributions and feedback made this project possible!
 
@@ -234,6 +269,3 @@ If you enjoy this RTX demo, please consider:
 - 📝 Reporting visual issues  
 
 Thanks for trying the demo!
-
-
-
