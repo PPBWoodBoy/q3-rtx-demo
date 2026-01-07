@@ -74,6 +74,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 ## 📥 Installation TL;DR
 
 - **Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
+  (**remix-1.2.4-release.zip**)
 - **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a 
 (**QindieGL.zip**, only the `opengl32.dll` is needed)
 - **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1 
