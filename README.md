@@ -74,8 +74,10 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 ## 📥 Installation TL;DR
 
 - **Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
-- **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a
-- **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1
+- **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a 
+(**QindieGL.zip**, only the `opengl32.dll` is needed)
+- **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1 
+(**quake3e-windows-msvc-x86.zip**, only the `quake3e.exe` is needed)
 
 - Copy the `quake3e.exe` into your base Quake3 (Q3) folder (example: C:/Program Files/Quake 3 Arena)
 - Copy the `opengl32.dll` into your base Q3 folder
@@ -90,7 +92,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 - Copy the `q3rtx.pk3` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
 - Run the `quake3e.exe` once and make sure RTX Remix hooks (Message ingame on the top left corner)
 - Exit the game
-- Copy the whole `Q3RTXDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder
+- Copy the whole `Q3RTXDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder (so that the `mod.usda` and the materials & assets folder are in the  `rtx-remix/mods` folder)
 - Have fun
 
 > [!CAUTION]
@@ -102,29 +104,9 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 > - Game Options: Dynamic Lights: Off
 > - Game Options: High Quality Sky: On
 
-## 📥 Installation (START HERE)
+### 🛠️ Change the screen resolution (optional)
 
-### 1️⃣ Go to your Quake 3 installation directory (Steam)
-
-`Steam/steamapps/common/Quake 3 Arena/baseq3`
-
----
-
-### 2️⃣ Copy the mod files
-
-Copy **everything** from this mod’s `baseq3` folder into your own:
-`Quake 3 Arena/baseq3`
-
-
-Let Windows overwrite files if it asks — this is correct.
-
----
-
-### 3️⃣ Change the screen resolution (optional)
-
-Open:
-`baseq3/autoexec.cfg`
-
+Open:`baseq3/autoexec.cfg`
 
 Look for the following lines:
 
@@ -135,13 +117,13 @@ r_customHeight "xxxx"
 Replace `xxxx` with your resolution.  
 The default included in this mod is:
 
-`r_customWidth "1920"`
-`r_customHeight "1080"`
+r_customWidth **"1920"**
+r_customHeight **"1080"**
 
 
 ---
 
-### 4️⃣ DO NOT CHANGE ANY IN-GAME GRAPHIC SETTINGS
+### ❗ DO NOT CHANGE ANY IN-GAME GRAPHIC SETTINGS
 
 This is extremely important.
 
