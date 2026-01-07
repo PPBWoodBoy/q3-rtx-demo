@@ -122,8 +122,14 @@ r_customHeight "xxxx"
 Replace `xxxx` with your resolution.  
 The default included in this mod is:
 
-r_customWidth **"1920"**
-r_customHeight **"1080"**
+- r_customWidth **"1920"**
+- r_customHeight **"1080"**
+
+### 🛠️ Shortcuts ingame
+
+- j = Toggle HUD
+- k = Toggle draw weapon
+- l = Toggle Thirdperson
 
 
 ---
