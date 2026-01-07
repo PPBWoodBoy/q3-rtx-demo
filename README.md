@@ -26,6 +26,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 > [!CAUTION]
 > Please download the mod files from [ModDB](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads)
+> Or from the official github [release](https://github.com/PPBWoodBoy/q3-rtx-demo/releases/tag/rtx%2Cquake3%2Cremix%2Cmod)
 
 ---
 
