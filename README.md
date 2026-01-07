@@ -73,16 +73,20 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 ## 📥 Installation TL;DR
 
+### Its recommended to make a new copy of a fresh/vanilla install folder of Quake3. And install the RTX Mod in there.
+
 - **Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
   (**remix-1.2.4-release.zip**)
 - **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a 
 (**QindieGL.zip**, only the `opengl32.dll` is needed)
 - **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1 
 (**quake3e-windows-msvc-x86.zip**, only the `quake3e.exe` is needed)
+- **Download:** https://github.com/PPBWoodBoy/q3-rtx-demo/releases/download/rtx%2Cquake3%2Cremix%2Cmod/q3config.zip
 
 - Copy the `quake3e.exe` into your base Quake3 (Q3) folder (example: C:/Program Files/Quake 3 Arena)
 - Copy the `opengl32.dll` into your base Q3 folder
 - Copy the `QindieGL.ini` into your base Q3 folder
+- Copy/replace q3conf.cfg into the baseq3 folder
 - Copy the `rtx.conf`into your base Q3 folder
 - Copy the RTX Remix 1.2.4 runtime into your base Q3 folder:
 	- .trex folder
@@ -93,7 +97,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 - Copy the `q3rtx.pk3` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
 - Run the `quake3e.exe` once and make sure RTX Remix hooks (Message ingame on the top left corner)
 - Exit the game
-- Copy the whole `Q3RTXDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder (so that the `mod.usda` and the materials & assets folder are in the  `rtx-remix/mods/Q3RTXDemo` folder)
+- Copy the whole `Q3RTXModDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder (so that the `mod.usda` and the materials & assets folder are in the  `rtx-remix/mods/Q3RTXModDemo` folder)
 - Have fun
 
 > [!CAUTION]
