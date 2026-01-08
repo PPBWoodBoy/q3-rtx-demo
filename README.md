@@ -104,8 +104,10 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 > If you happen to change a setting and cant get it solved
 > here is a list of all ingame settings required to work with RTX:
 > - Graphics Settings: Lighting: Vertex
-> - Graphics Settings: GL extensions: Off
+> - Graphics Settings: GL extensions: On
 > - Graphics Settings: Texture detail: Highest (100%)
+> - Graphics Settings: Texture quality: 32 bit
+> - Graphics Settings: Color depth: 32 bit
 > - Game Options: Dynamic Lights: Off
 > - Game Options: High Quality Sky: On
 
