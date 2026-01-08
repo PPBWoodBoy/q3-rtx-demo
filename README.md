@@ -85,7 +85,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 - Copy the `quake3e.exe` into your base Quake3 (Q3) folder (example: C:/Program Files/Quake 3 Arena)
 - Copy the `opengl32.dll` into your base Q3 folder
-- Copy the `QindieGL.ini` into your base Q3 folder
+- Copy the `QindieGL.ini` into your base Q3 folder (From the mod download, **NOT** from the QindieGL download!)
 - Copy/replace q3conf.cfg into the baseq3 folder
 - Copy the `rtx.conf`into your base Q3 folder
 - Copy the RTX Remix 1.2.4 runtime into your base Q3 folder:
