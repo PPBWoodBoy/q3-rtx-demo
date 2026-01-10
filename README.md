@@ -97,7 +97,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 - Copy the `q3rtx.pk3` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
 - Run the `quake3e.exe` once and make sure RTX Remix hooks (Message ingame on the top left corner) (game might start minimized)
 - Exit the game
-- Copy the whole `Q3RTXModDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder (so that the `mod.usda` and the materials & assets folder are in the  `rtx-remix/mods/Q3RTXModDemo ` folder)
+- Copy the whole `Q3RTXDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder (so that the `mod.usda` and the materials & assets folder are in the  `rtx-remix/mods/Q3RTXDemo` folder) (The Name of the folder doesnt matter).
 - Have fun
 
 > [!CAUTION]
