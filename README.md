@@ -30,6 +30,19 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 ---
 
+## Trailer
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=C7UB--SMK-c">
+     <img 
+      src="yt_prev.jpg" 
+      alt="Q3 RTX Trailer" 
+      style="width:100%;">
+      </a>
+    </div>
+
+---
+
 ## 🔥 Remastered Content
 
 ### 🗺️ Maps
