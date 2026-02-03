@@ -94,7 +94,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 ## 📥 Installation TL;DR
 
-- Copy the original .pk3 files into the ``baseq3`` folder of the Mod
+- Copy the original .pk3 files (pak0.pk3 - pak8.pk3) into the ``baseq3`` folder of the Mod
 - Run `q3rtx.exe` once
 - Have fun!
 
