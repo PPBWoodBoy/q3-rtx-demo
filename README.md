@@ -6,13 +6,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Quake3e-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RTX%20Remix-1.2.4-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RTX%20Remix-1.3.6-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Textures-Upscaled%20%2B%20Remastered-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Demo-yellow?style=for-the-badge" />
 </p>
 
 This project is a visual enhancement mod for **Quake 3 Arena**, created using  
-**RTX Remix 1.2.4**, **Quake3e**, **imgupscaler.ai**, and **Photopea**.  
+**RTX Remix 1.3.6**, **Quake3e**, **imgupscaler.ai**, and **Photopea**.  
 It brings modern PBR-style textures and ray-tracing compatible materials to the game while keeping original gameplay completely intact.
 
 **Intended for Singleplayer gameplay!**
@@ -26,14 +26,14 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 
 > [!CAUTION]
 > Please download the mod files from [ModDB](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads)
-> or from the official github [release](https://github.com/PPBWoodBoy/q3-rtx-demo/releases/tag/rtx%2Cquake3%2Cremix%2Cmod)
+> or from the official github [release](https://github.com/PPBWoodBoy/q3-rtx-demo/releases/)
 
 ---
 
 ## Trailer
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=C7UB--SMK-c">
+      <a href="https://www.youtube.com/watch?v=HHBuxYAgXRY">
      <img 
       src="yt_prev.jpg" 
       alt="Q3 RTX Trailer" 
@@ -49,8 +49,11 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | Map   | Status |
 |-------|--------|
 | Q3DM1 | ✔️ Remastered Textures / Custom Lighting |
+| Q3DM3 | ✔️ Remastered Textures / Custom Lighting |
 | Q3DM6 | ✔️ Remastered Textures / Custom Lighting |
 | Q3DM10 | ✔️ Remastered Textures / Custom Lighting |
+| Q3DM17 | ✔️ Remastered Textures / Custom Lighting |
+| Q3TOURNEY1 | ✔️ Remastered Textures / Custom Lighting |
 
 ### 🧑‍🚀 Player Textures
 | Player | Status |
@@ -69,6 +72,10 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | TankJr | ✔️ |
 | Angel | ✔️ |
 | Wrack | ✔️ |
+| Bones | ✔️ |
+| Mynx | ✔️ |
+| Keel (Blue) | ✔️ |
+| Sorlag | ✔️ |
 
 
 ### 🔫 Weapon Textures
@@ -81,37 +88,15 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 | Railgun         | ✔️ |
 | Plasmagun       | ✔️ |
 | Lightninggun       | ✔️ |
+| Grenade launcher       | ✔️ |
 
 ---
 
 ## 📥 Installation TL;DR
 
-### Its recommended to make a new copy of a fresh/vanilla install folder of Quake3. And install the RTX Mod in there.
-
-- **Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
-  (**remix-1.2.4-release.zip**)
-- **Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a 
-(**QindieGL.zip**, only the `opengl32.dll` is needed)
-- **Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1 
-(**quake3e-windows-msvc-x86.zip**, only the `quake3e.exe` is needed)
-- **Download:** https://github.com/PPBWoodBoy/q3-rtx-demo/releases/download/rtx%2Cquake3%2Cremix%2Cmod/q3config.zip
-
-- Copy the `quake3e.exe` into your base Quake3 (Q3) folder (example: C:/Program Files/Quake 3 Arena)
-- Copy the `opengl32.dll` into your base Q3 folder
-- Copy the `QindieGL.ini` into your base Q3 folder (From the mod download, **NOT** from the QindieGL download!)
-- Copy/replace `q3config.cfg` into the baseq3 folder
-- Copy the `rtx.conf`into your base Q3 folder
-- Copy the RTX Remix 1.2.4 runtime into your base Q3 folder:
-	- .trex folder
-	- d3d8to9.dll
-	- d3d9.dll
-	- NvRemixLauncher32.exe
-- Copy the `autoexec.cfg` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
-- Copy the `q3rtx.pk3` into the baseq3 folder (example: C:/Program Files/Quake 3 Arena/baseq3)
-- Run the `quake3e.exe` once and make sure RTX Remix hooks (Message ingame on the top left corner) (game might start minimized)
-- Exit the game
-- Copy the whole `Q3RTXDemo` folder into the `rtx-remix/mods` folder in your base Q3 folder (so that the `mod.usda` and the materials & assets folder are in the  `rtx-remix/mods/Q3RTXDemo` folder) (The Name of the folder doesnt matter).
-- Have fun
+- Copy the original .pk3 files into the ``baseq3`` folder of the Mod
+- Run `q3rtx.exe` once
+- Have fun!
 
 > [!CAUTION]
 > If you happen to change a setting and cant get it solved
@@ -223,27 +208,6 @@ WoodBoy (PolyPlayBox on YouTube)
 
 ---
 
-## 🔗 Required External Tools
-
-This mod uses the following tools, which you must download separately:
-
-> [!CAUTION]
-> Using any different version of the following Tools is not supported and might brake the Mod.
-
-### **RTX Remix (1.2.4)**
-NVIDIA’s official ray-tracing modding toolkit.  
-**Download:** https://github.com/NVIDIAGameWorks/rtx-remix/releases/tag/remix-1.2.4
-
-### **openGL**
-openGL32.exe that "converts" openGL calls to D3D9 (DirectX 9), to get RTX Remix to hook.  
-**Download:** https://github.com/whisperglen/QindieGL/releases/tag/v1.2.0a
-
-### **Quake3e**
-Enhanced Quake III engine fork with modern improvements.  
-**Download:** https://github.com/whisperglen/Quake3e/releases/tag/v1.1
-
----
-
 ## 📜 License
 
 This is a **non-commercial fan remaster project**.  
@@ -255,11 +219,13 @@ Textures are based on original id Software assets and may not be used commercial
 
 ## 🙏 Special Thanks
 
-A huge thank-you to the following people from the official NVIDIA RTX Remix Discord server for their help, guidance, and support during development:
+A huge thank-you to the following people from the official **NVIDIA RTX Remix Discord server** for their help, guidance, and support during development:
 
 - **saintMath**  
 - **Ferdam**
 - **Jon**
+- **RuneStorm**
+- **RangerXT**
 
 Your contributions and feedback made this project possible!
 
