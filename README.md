@@ -1,5 +1,8 @@
 # Quake 3 Arena RTX Mod Demo
 
+# THIS REPOSITORY IS NOT UNDER ACTIVE DEVELOPMENT ANYMORE!
+# PLEASE GO TO THIS LINK FOR THE LATEST VERSION: [ModDB](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod/downloads)
+
 <div align="center">
   <img src="mod_logo_demo.png" alt="Logo Demo">
 </div>
@@ -25,7 +28,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 > I dont take any responsibility for any hardware damage, VAC bans, any other problems that this mod might cause
 
 > [!CAUTION]
-> Please download the mod files from [ModDB](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod-demo/downloads)
+> Please download the mod files from [ModDB](https://www.moddb.com/mods/quake-3-arena-rtx-remix-mod/downloads)
 > or from the official github [release](https://github.com/PPBWoodBoy/q3-rtx-demo/releases/)
 
 ---
