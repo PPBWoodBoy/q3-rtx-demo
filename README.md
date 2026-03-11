@@ -36,7 +36,7 @@ It brings modern PBR-style textures and ray-tracing compatible materials to the 
 ## Trailer
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=HHBuxYAgXRY">
+      <a href="https://www.youtube.com/watch?v=Ak6IvDxEMTM">
      <img 
       src="yt_prev.jpg" 
       alt="Q3 RTX Trailer" 
